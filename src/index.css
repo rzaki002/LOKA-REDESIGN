@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", sans-serif;
+  --font-display: "Manrope", sans-serif;
+  --color-ink: #17251f;
+  --color-muted: #68736d;
+  --color-paper: #f7f7f2;
+  --color-lime: #d9f36a;
+  --color-forest: #253d31;
+}
+
+:root {
+  font-family: "DM Sans", sans-serif;
+  color: #17251f;
+  background: #f7f7f2;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  color: #17251f;
+  background: #d9f36a;
+}
