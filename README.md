@@ -20,7 +20,6 @@
 ![Tampilan Utama Loka Studio](https://raw.githubusercontent.com/rzaki002/LOKA-REDESIGN/main/src/assets/ss.png)
 
 ### 🎥 Video Preview Web
-### 🎥 Video Preview Web
 [Klik di sini untuk melihat video preview web](https://raw.githubusercontent.com/rzaki002/LOKA-REDESIGN/main/src/assets/vid.webm)
 
 ## 💻 Cara Menjalankan Project
