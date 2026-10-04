@@ -20,7 +20,8 @@
 ![Tampilan Utama Loka Studio](https://raw.githubusercontent.com/rzaki002/LOKA-REDESIGN/main/src/assets/ss.png)
 
 ### 🎥 Video Preview Web
-<video src="https://raw.githubusercontent.com/rzaki002/LOKA-REDESIGN/main/src/assets/vid.webm" width="100%" controls autoplay loop muted></video>
+### 🎥 Video Preview Web
+[Klik di sini untuk melihat video preview web](https://raw.githubusercontent.com/rzaki002/LOKA-REDESIGN/main/src/assets/vid.webm)
 
 ## 💻 Cara Menjalankan Project
 Jika ingin menjalankan project ini secara lokal di komputer Anda, ikuti langkah-langkah berikut:
